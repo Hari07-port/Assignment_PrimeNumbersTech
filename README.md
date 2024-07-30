@@ -6,8 +6,8 @@ Python program to Scrape the below-mentioned site and bring in the list of the f
 2. Download the project files in your local repository
 3. Add chromedriver.exe file to the same repository where source code is present
 4.     local Repository ->
-5.         - Assignment_PrimeNumber.py
-6.         - chromedriver.exe
-7.         - requirements.txt
-8.         - details.csv
-9. Run the Assignment_PrimeNumber.py to perform Web scraping.
+         - Assignment_PrimeNumber.py
+         - chromedriver.exe
+         - requirements.txt
+         - details.csv
+5. Run the Assignment_PrimeNumber.py to perform Web scraping.
